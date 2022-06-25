@@ -1,5 +1,5 @@
 <html>
 <body style='background-color: red;'>
-<h2>Hello World..!</h2>
+<h2>Welcome to devops training..!</h2>
 </body>
 </html>
